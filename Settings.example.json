@@ -1,0 +1,74 @@
+{
+    "Enabled": 1,
+    "DebugLogs": 0,
+    "DespawnDelayMs": 180000,
+    "LazyNPCs": [
+        {
+            "NPCID": 4000,
+            "NPCName": "Marina Sidorova",
+            "QuestIDs": [
+                131,
+                137,
+                402,
+                805,
+                815
+            ]
+        },
+        {
+            "NPCID": 4001,
+            "NPCName": "Elena Petrova",
+            "QuestIDs": [
+                132,
+                403
+            ]
+        },
+        {
+            "NPCID": 4004,
+            "NPCName": "Survivor (PilotCrash)",
+            "QuestIDs": [
+                134,
+                407
+            ]
+        },
+        {
+            "NPCID": 4005,
+            "NPCName": "Survivor (PilotCrash_1)",
+            "QuestIDs": [
+                135,
+                408
+            ]
+        },
+        {
+            "NPCID": 4006,
+            "NPCName": "Survivor (PilotCrash_2)",
+            "QuestIDs": [
+                136,
+                409
+            ]
+        },
+        {
+            "NPCID": 4007,
+            "NPCName": "Captain (Lost Convoy)",
+            "QuestIDs": [
+                138,
+                410
+            ]
+        },
+        {
+            "NPCID": 4008,
+            "NPCName": "Captain (Convoy Pursuit)",
+            "QuestIDs": [
+                139,
+                411
+            ]
+        },
+        {
+            "NPCID": 4009,
+            "NPCName": "Captain (Operation Complete)",
+            "QuestIDs": [
+                140,
+                412
+            ]
+        }
+    ]
+}
